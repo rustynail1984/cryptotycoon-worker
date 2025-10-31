@@ -17,7 +17,7 @@ BTC, ETH, USDT, BNB, XRP, SOL, USDC, DOGE, TRX, ADA, HYPE, LINK, BCH, AVAX, LTC,
 Current prices can be fetched via the `prices.json` file:
 
 ```
-[https://raw.githubusercontent.com/rustynail1984/cryptotycoon/main/prices.json](https://raw.githubusercontent.com/rustynail1984/cryptotycoon-worker/refs/heads/main/prices.json)
+https://raw.githubusercontent.com/rustynail1984/cryptotycoon-worker/refs/heads/main/prices.json
 ```
 
 ### Data Structure
