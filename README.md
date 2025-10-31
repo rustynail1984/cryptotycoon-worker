@@ -60,3 +60,7 @@ The workflow runs automatically every 5 minutes and can also be triggered manual
 - TypeScript
 - GitHub Actions
 - Coinlore API
+
+## Credits
+
+Price data provided by [Coinlore API](https://www.coinlore.com/cryptocurrency-data-api) - a free cryptocurrency API service.
