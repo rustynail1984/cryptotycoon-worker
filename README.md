@@ -2,7 +2,7 @@
 
 [![Fetch Crypto Prices](https://github.com/rustynail1984/cryptotycoon-worker/actions/workflows/fetch-prices.yml/badge.svg)](https://github.com/rustynail1984/cryptotycoon-worker/actions/workflows/fetch-prices.yml)
 
-Automated cryptocurrency price fetcher that runs every 5 minutes via GitHub Actions.
+Automated cryptocurrency price fetcher that runs every 15 minutes via GitHub Actions.
 
 ## Overview
 
