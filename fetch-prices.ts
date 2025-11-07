@@ -73,6 +73,7 @@ async function fetchPrices(): Promise<void> {
 		3,      // VTC - Vertcoin
 		8,      // DASH - Dash
 		32386,  // RVN - Ravencoin
+		141241, // BELL - Bellscoin
 	].join(',');
 
 	const API_URL = `https://api.coinlore.net/api/ticker/?id=${COIN_IDS}`;
