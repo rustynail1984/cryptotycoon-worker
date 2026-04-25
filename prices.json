@@ -1,62 +1,62 @@
 {
-  "last_updated": "2026-04-25T07:45:50.733Z",
+  "last_updated": "2026-04-25T08:21:29.496Z",
   "source": "coinlore",
   "version": "1.0.0",
   "coins": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price_usd": 77554.09,
-      "percent_change_24h": -0.11,
-      "percent_change_1h": 0.02,
-      "percent_change_7d": 0.25,
+      "price_usd": 77558.61,
+      "percent_change_24h": -0.36,
+      "percent_change_1h": 0.08,
+      "percent_change_7d": 0.1,
       "rank": 1,
-      "market_cap_usd": 1548821178494,
-      "volume_24h": 46562766446.84835
+      "market_cap_usd": 1548911521635.7,
+      "volume_24h": 45785927810.2394
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price_usd": 2316.82,
-      "percent_change_24h": 0.18,
-      "percent_change_1h": 0.01,
-      "percent_change_7d": -4.7,
+      "price_usd": 2318.07,
+      "percent_change_24h": 0.01,
+      "percent_change_1h": 0.13,
+      "percent_change_7d": -4.69,
       "rank": 2,
-      "market_cap_usd": 283520359819.87,
-      "volume_24h": 7806229420.573176
+      "market_cap_usd": 283673590382.54,
+      "volume_24h": 7591210855.499424
     },
     {
       "symbol": "USDT",
       "name": "Tether",
       "price_usd": 1,
-      "percent_change_24h": 0.02,
+      "percent_change_24h": 0.06,
       "percent_change_1h": 0.01,
       "percent_change_7d": 0.03,
       "rank": 3,
-      "market_cap_usd": 189710806572.12,
-      "volume_24h": 100462634501.80617
+      "market_cap_usd": 189722170074.82,
+      "volume_24h": 99371317033.90338
     },
     {
       "symbol": "BNB",
       "name": "Binance Coin",
-      "price_usd": 637.45,
-      "percent_change_24h": 0.21,
-      "percent_change_1h": -0.01,
-      "percent_change_7d": -0.66,
+      "price_usd": 637.35,
+      "percent_change_24h": 0.14,
+      "percent_change_1h": 0.03,
+      "percent_change_7d": -0.67,
       "rank": 4,
-      "market_cap_usd": 88724548321.82,
-      "volume_24h": 299198156.76949275
+      "market_cap_usd": 88709986491.32,
+      "volume_24h": 292258400.77548075
     },
     {
       "symbol": "XRP",
       "name": "XRP",
       "price_usd": 1.43,
-      "percent_change_24h": 0.32,
-      "percent_change_1h": 0.08,
-      "percent_change_7d": -3.74,
+      "percent_change_24h": -0.02,
+      "percent_change_1h": 0.02,
+      "percent_change_7d": -3.5,
       "rank": 5,
-      "market_cap_usd": 85739283995.98,
-      "volume_24h": 1499573821.1295698
+      "market_cap_usd": 85644017950.09,
+      "volume_24h": 1480510109.4581892
     },
     {
       "symbol": "USDC",
@@ -66,228 +66,228 @@
       "percent_change_1h": 0,
       "percent_change_7d": 0.01,
       "rank": 6,
-      "market_cap_usd": 73953172858.81,
-      "volume_24h": 5967660279.196124
+      "market_cap_usd": 73953173729.16,
+      "volume_24h": 5836650483.0978365
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "price_usd": 86.41,
-      "percent_change_24h": 1.16,
-      "percent_change_1h": -0.02,
-      "percent_change_7d": -3.41,
+      "price_usd": 86.44,
+      "percent_change_24h": 1.01,
+      "percent_change_1h": 0.08,
+      "percent_change_7d": -3.14,
       "rank": 7,
-      "market_cap_usd": 46935148762.91,
-      "volume_24h": 1385153623.4186742
+      "market_cap_usd": 46947928480.15,
+      "volume_24h": 1357693483.4976864
     },
     {
       "symbol": "TRX",
       "name": "TRON",
-      "price_usd": 0.321774,
+      "price_usd": 0.321868,
       "percent_change_24h": -1.27,
-      "percent_change_1h": -0.11,
-      "percent_change_7d": -1.01,
+      "percent_change_1h": -0.04,
+      "percent_change_7d": -1.09,
       "rank": 8,
-      "market_cap_usd": 30461121959.17,
-      "volume_24h": 473857773.6958071
+      "market_cap_usd": 30470038236.19,
+      "volume_24h": 471476121.75126797
     },
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
-      "price_usd": 0.098805,
-      "percent_change_24h": 0.99,
-      "percent_change_1h": 0.42,
-      "percent_change_7d": -1.45,
+      "price_usd": 0.098401,
+      "percent_change_24h": 0.65,
+      "percent_change_1h": -0.13,
+      "percent_change_7d": -1.68,
       "rank": 10,
-      "market_cap_usd": 16615192022.5,
-      "volume_24h": 1089599705.1541214
+      "market_cap_usd": 16547105626.3,
+      "volume_24h": 1072967906.7232183
     },
     {
       "symbol": "HYPE",
       "name": "Hyperliquid",
       "price_usd": 41.25,
-      "percent_change_24h": 0.4,
-      "percent_change_1h": 0.08,
-      "percent_change_7d": -6.85,
+      "percent_change_24h": 0.53,
+      "percent_change_1h": 0.02,
+      "percent_change_7d": -7.03,
       "rank": 12,
-      "market_cap_usd": 13775029969.07,
-      "volume_24h": 133581341.46427453
+      "market_cap_usd": 13773920640.01,
+      "volume_24h": 131056544.2145165
     },
     {
       "symbol": "BCH",
       "name": "Bitcoin Cash",
-      "price_usd": 455,
-      "percent_change_24h": -0.18,
-      "percent_change_1h": -0.11,
-      "percent_change_7d": 0.57,
+      "price_usd": 454.9,
+      "percent_change_24h": -0.33,
+      "percent_change_1h": -0.01,
+      "percent_change_7d": 0.53,
       "rank": 15,
-      "market_cap_usd": 9089043665.7,
-      "volume_24h": 95900183.82184286
+      "market_cap_usd": 9087010813.51,
+      "volume_24h": 94620805.48780283
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
-      "price_usd": 0.251766,
-      "percent_change_24h": 1.21,
-      "percent_change_1h": 0.02,
-      "percent_change_7d": -3.8,
+      "price_usd": 0.251615,
+      "percent_change_24h": 0.93,
+      "percent_change_1h": 0.2,
+      "percent_change_7d": -3.62,
       "rank": 16,
-      "market_cap_usd": 9013321062.05,
-      "volume_24h": 233790220.72777367
+      "market_cap_usd": 9007944874.29,
+      "volume_24h": 232422611.79220062
     },
     {
       "symbol": "XMR",
       "name": "Monero",
-      "price_usd": 371.57,
-      "percent_change_24h": -0.36,
-      "percent_change_1h": 0.6,
-      "percent_change_7d": 6.59,
+      "price_usd": 374.17,
+      "percent_change_24h": 0.01,
+      "percent_change_1h": 0.58,
+      "percent_change_7d": 7.27,
       "rank": 19,
-      "market_cap_usd": 6854288545.43,
-      "volume_24h": 119532149.9287349
+      "market_cap_usd": 6902187623.55,
+      "volume_24h": 119455962.40352774
     },
     {
       "symbol": "LINK",
       "name": "ChainLink",
-      "price_usd": 9.42,
-      "percent_change_24h": 1.43,
-      "percent_change_1h": -0.06,
-      "percent_change_7d": -2.81,
+      "price_usd": 9.41,
+      "percent_change_24h": 1.24,
+      "percent_change_1h": 0.03,
+      "percent_change_7d": -2.76,
       "rank": 20,
-      "market_cap_usd": 6385224868.04,
-      "volume_24h": 161226282.11227113
+      "market_cap_usd": 6378713125.58,
+      "volume_24h": 159619505.11687687
     },
     {
       "symbol": "ZEC",
       "name": "Zcash",
-      "price_usd": 355.11,
-      "percent_change_24h": 4.37,
-      "percent_change_1h": 0.24,
-      "percent_change_7d": 7.51,
+      "price_usd": 353.74,
+      "percent_change_24h": 3.54,
+      "percent_change_1h": 0.13,
+      "percent_change_7d": 8.18,
       "rank": 22,
-      "market_cap_usd": 5762216980.61,
-      "volume_24h": 414515210.2054712
+      "market_cap_usd": 5739852000.87,
+      "volume_24h": 411817263.189739
     },
     {
       "symbol": "LTC",
       "name": "Litecoin",
       "price_usd": 56.47,
-      "percent_change_24h": 0.82,
-      "percent_change_1h": 0,
-      "percent_change_7d": -0.55,
+      "percent_change_24h": 0.63,
+      "percent_change_1h": 0.17,
+      "percent_change_7d": -0.51,
       "rank": 25,
-      "market_cap_usd": 4309858835.28,
-      "volume_24h": 203271510.00226647
+      "market_cap_usd": 4309726963.88,
+      "volume_24h": 200184414.61783922
     },
     {
       "symbol": "AVAX",
       "name": "Avalanche",
-      "price_usd": 9.46,
-      "percent_change_24h": 1.04,
-      "percent_change_1h": -0.13,
-      "percent_change_7d": -3.65,
+      "price_usd": 9.45,
+      "percent_change_24h": 0.78,
+      "percent_change_1h": 0.05,
+      "percent_change_7d": -3.66,
       "rank": 26,
-      "market_cap_usd": 3996013952.68,
-      "volume_24h": 106407313.08100718
+      "market_cap_usd": 3990559540.7,
+      "volume_24h": 105097352.18896492
     },
     {
       "symbol": "SHIB",
       "name": "Shiba Inu",
       "price_usd": 0.000006,
-      "percent_change_24h": 1.46,
-      "percent_change_1h": 0.06,
-      "percent_change_7d": -2.23,
+      "percent_change_24h": 1.03,
+      "percent_change_1h": -0.01,
+      "percent_change_7d": -2.16,
       "rank": 28,
-      "market_cap_usd": 3677939157.11,
-      "volume_24h": 56537509.28519514
+      "market_cap_usd": 3667864804.61,
+      "volume_24h": 56312889.94412363
     },
     {
       "symbol": "XAUT",
       "name": "Tether Gold",
-      "price_usd": 4667.51,
-      "percent_change_24h": 0.42,
-      "percent_change_1h": -0.02,
-      "percent_change_7d": -3.48,
+      "price_usd": 4668.97,
+      "percent_change_24h": 0.31,
+      "percent_change_1h": 0,
+      "percent_change_7d": -3.27,
       "rank": 40,
-      "market_cap_usd": 1752984190.41,
-      "volume_24h": 212489531.2461285
+      "market_cap_usd": 1753534047.22,
+      "volume_24h": 208272213.37333927
     },
     {
       "symbol": "PEPE",
       "name": "Pepe",
       "price_usd": 0.000004,
-      "percent_change_24h": 1.15,
-      "percent_change_1h": 0.03,
-      "percent_change_7d": -4.72,
+      "percent_change_24h": 0.7,
+      "percent_change_1h": -0.02,
+      "percent_change_7d": -4.24,
       "rank": 42,
-      "market_cap_usd": 1631014272.34,
-      "volume_24h": 175657519.97844464
+      "market_cap_usd": 1624593578.29,
+      "volume_24h": 173089843.50590733
     },
     {
       "symbol": "PI",
       "name": "Pi",
-      "price_usd": 0.170474,
-      "percent_change_24h": 0.2,
+      "price_usd": 0.170461,
+      "percent_change_24h": -0.11,
       "percent_change_1h": 0.14,
-      "percent_change_7d": -5.2,
+      "percent_change_7d": -5.04,
       "rank": 44,
-      "market_cap_usd": 1397293289.18,
-      "volume_24h": 4684525.229022996
+      "market_cap_usd": 1397190951.82,
+      "volume_24h": 4592368.972383311
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic",
       "price_usd": 8.41,
-      "percent_change_24h": -0.68,
-      "percent_change_1h": -0.3,
-      "percent_change_7d": -4.77,
+      "percent_change_24h": -1.1,
+      "percent_change_1h": 0.03,
+      "percent_change_7d": -4.61,
       "rank": 50,
-      "market_cap_usd": 1291754355.54,
-      "volume_24h": 50089954.39130575
+      "market_cap_usd": 1291724629.26,
+      "volume_24h": 48668955.49540364
     },
     {
       "symbol": "KAS",
       "name": "Kaspa",
-      "price_usd": 0.033587,
-      "percent_change_24h": -1.36,
-      "percent_change_1h": -0.29,
-      "percent_change_7d": -6.24,
+      "price_usd": 0.033632,
+      "percent_change_24h": -1.65,
+      "percent_change_1h": 0.21,
+      "percent_change_7d": -6.45,
       "rank": 57,
-      "market_cap_usd": 897595563.07,
-      "volume_24h": 10086178.573084231
+      "market_cap_usd": 898797398.03,
+      "volume_24h": 10343496.269914692
     },
     {
       "symbol": "DASH",
       "name": "Dash",
-      "price_usd": 36.26,
-      "percent_change_24h": 0.62,
-      "percent_change_1h": -0.35,
-      "percent_change_7d": -2,
+      "price_usd": 36.2,
+      "percent_change_24h": 0.54,
+      "percent_change_1h": -0.03,
+      "percent_change_7d": -1.9,
       "rank": 89,
-      "market_cap_usd": 459615991.31,
-      "volume_24h": 76003366.3808621
+      "market_cap_usd": 458868387.79,
+      "volume_24h": 75249678.13365434
     },
     {
       "symbol": "RVN",
       "name": "Ravencoin",
-      "price_usd": 0.006118,
-      "percent_change_24h": 3.87,
-      "percent_change_1h": 0,
-      "percent_change_7d": -1.5,
+      "price_usd": 0.006128,
+      "percent_change_24h": 3.57,
+      "percent_change_1h": 0.28,
+      "percent_change_7d": -1.17,
       "rank": 202,
-      "market_cap_usd": 95510660.41,
-      "volume_24h": 17429643.073648892
+      "market_cap_usd": 95656636.36,
+      "volume_24h": 17755556.6157987
     },
     {
       "symbol": "VTC",
       "name": "Vertcoin",
-      "price_usd": 0.050664,
-      "percent_change_24h": -1.02,
-      "percent_change_1h": -0.39,
-      "percent_change_7d": -2.79,
-      "rank": 914,
-      "market_cap_usd": 3748662.63,
-      "volume_24h": 3765.016693307775
+      "price_usd": 0.050665,
+      "percent_change_24h": -1.04,
+      "percent_change_1h": -0.4,
+      "percent_change_7d": -2.86,
+      "rank": 917,
+      "market_cap_usd": 3748727.62,
+      "volume_24h": 3755.606606745535
     },
     {
       "symbol": "BELLS",
@@ -295,10 +295,10 @@
       "price_usd": 0.055186,
       "percent_change_24h": -2.01,
       "percent_change_1h": 0,
-      "percent_change_7d": 2,
-      "rank": 941,
+      "percent_change_7d": 1.98,
+      "rank": 942,
       "market_cap_usd": 3369017.38,
-      "volume_24h": 19093.766218399993
+      "volume_24h": 19094.218740085707
     }
   ]
 }
