@@ -1,9 +1,9 @@
 name: Fetch Crypto Prices
 
 on:
-  schedule:
+#  schedule:
     # Runs every 60 minutes
-    - cron: '0 * * * *'
+#    - cron: '0 * * * *'
   workflow_dispatch: # Allows manual trigger
 
 jobs:
